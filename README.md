@@ -8,7 +8,7 @@ TimeGuard is a lightweight anomaly detection system for time series data. It uti
 1. Clone the repository:
    ```bash
    git clone https://github.com/nikosane/Anomaly-Detection-in-Time-Series-Data.git
-   cd timeguard
+   cd Anomaly-Detection-in-Time-Series-Data
    ```
 2. Install dependencies:
    ```bash
