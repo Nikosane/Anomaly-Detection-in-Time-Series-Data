@@ -1,4 +1,4 @@
-# Anomaly-Detection-in-Time-Series-Data
+# TimeGuard -An Anomaly-Detection-in-Time-Series-Data
 
 ## Project Overview
 TimeGuard is a lightweight anomaly detection system for time series data. It utilizes statistical and machine learning-based approaches to identify unusual patterns, trends, and outliers in sequential data, making it ideal for applications such as financial analysis, IoT monitoring, and operational data tracking.
